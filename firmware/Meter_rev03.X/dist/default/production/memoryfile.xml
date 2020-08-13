@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<project>                                  
+  <executable name="dist/default/production/Meter_rev03.X.production.elf">                 
+    <memory name="program">                 
+      <units>bytes</units>                 
+      <length>132240</length>                 
+      <used>126720</used>                     
+      <free>5520</free>                     
+    </memory>                              
+    <memory name="data">              
+      <units>bytes</units>                 
+      <length>32768</length>                 
+      <used>25668</used>                     
+      <free>7100</free>                     
+    </memory>                              
+  </executable>                            
+</project>                                 
